@@ -1,4 +1,4 @@
-# Pet / Vet / Policy Database
+# Pet / Vet / Policy Database :dog2: :scream_cat:
 
 ### Contents:
 
@@ -12,7 +12,7 @@
 
 ![opening the db step 1](./assets/opendb1.png)
 
-* Navigate to the [pet_vet_policy.db](./pet_vet_policy.db) file within this folder
+* Navigate to the [pet_vet_policy.db](../../pet_vet_policy.db) file within this folder
 * Click the drop-down arrow next to 'Table' within the sqlite browser window
 * You should see three new tables: pet, policy, and vet
 
