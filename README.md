@@ -2,8 +2,8 @@
 
 ### Contents:
 
-* A folder, raw_data, which contains all tables (pet, vet, policy) in their raw .csv files
-* A database, pet_vet_policy.db, which can be used to import all three .csv files above into a sqlite3 database. The .db file is simply the .csv files 'wrapped up' in a format that is easily recognized to sqlite databases.
+* A folder, data, which contains all tables (pet, vet, policy) in their raw .csv files
+* A database, pet_vet_policy.db, which can be used to import all three .csv files above into a sqlite3 database. The .db file is simply the .csv files 'wrapped up' in a format that is easily recognized by sqlite databases.
 
 ### Importing Files:
 
