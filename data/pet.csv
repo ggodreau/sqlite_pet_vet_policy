@@ -1,0 +1,31 @@
+pet_id,policy_number,species,breed,pet_name,pet_age
+406,18,dog,border collie,jack,8
+700,26,dog,border collie,rocket,3
+707,1,dog,brittany spaniel,ashton,4
+320,7,dog,brittany spaniel,ace,4
+184,12,dog,brittany spaniel,mary,3
+461,29,dog,brittany spaniel,john,2
+903,13,cat,calico,crayon,5
+922,16,cat,domestic shorthair,vince,2
+981,19,cat,domestic shorthair,isabella,5
+385,9,dog,german shepard,fluffy,10
+213,24,dog,german shepard,sally,2
+577,2,dog,golden retriever,buddy,5
+206,3,dog,golden retriever,alice,3
+166,6,dog,golden retriever,rover,4
+112,10,dog,golden retriever,fluffy,5
+313,14,dog,golden retriever,mario,1
+711,15,dog,golden retriever,sneaker,5
+364,20,dog,golden retriever,holy,11
+599,21,dog,golden retriever,comet,7
+753,22,dog,golden retriever,bubby,7
+829,25,dog,golden retriever,bubble,8
+395,30,dog,golden retriever,jace,9
+271,4,dog,greyhound,claire,12
+623,8,dog,greyhound,lassie,5
+158,23,dog,greyhound,mr. nuggets,3
+909,17,cat,mixed,dolly,3
+189,5,dog,poodle,jane,2
+323,27,dog,poodle,percy,1
+554,28,dog,poodle,michael,3
+950,11,cat,siamese,jasper,4

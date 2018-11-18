@@ -1,0 +1,25 @@
+pet_id,policy_number,date_of_visit,medical_issue,cost
+707,1,10/5/2014,ticks,$766 
+271,4,8/5/2013,fleas,$433 
+189,5,5/5/2013,broekn leg,$371 
+320,7,10/5/2013,broekn leg,$147 
+623,8,8/5/2014,broekn leg,$375 
+385,9,1/5/2014,fleas,$541 
+950,11,5/5/2015,upper respiratory,$380 
+184,12,4/5/2013,upper respiratory,$699 
+903,13,2/5/2015,diarrhea,$860 
+711,15,11/5/2014,fleas,$269 
+922,16,4/5/2015,fleas,$205 
+909,17,3/5/2015,ticks,$373 
+406,18,3/5/2014,broekn leg,$454 
+364,20,12/5/2013,ticks,$67 
+599,21,7/5/2014,upper respiratory,$723 
+753,22,12/5/2014,upper respiratory,$431 
+158,23,5/5/2015,ticks,$3 
+213,24,7/5/2013,ticks,$115 
+829,25,1/5/2015,broekn leg,$9 
+700,26,9/5/2014,diarrhea,$466 
+323,27,11/5/2013,diarrhea,$519 
+554,28,2/3/2015,ticks,$437 
+461,29,4/5/2014,diarrhea,$762 
+395,30,2/5/2014,upper respiratory,$678 
